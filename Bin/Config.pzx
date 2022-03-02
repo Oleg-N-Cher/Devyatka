@@ -1,0 +1,12 @@
+MainMod=
+CodeAdr=29900
+DataAdr=50000
+Options=--no-std-crt0
+Modules=
+Include=-I ..\Lib\C -I ..\Lib\Obj
+Libraries=
+Target=TAP
+OfrontPar=-s3 -21
+Clean=FALSE
+Start=TRUE
+Pause=FALSE
